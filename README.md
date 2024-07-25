@@ -1,2 +1,4 @@
-# KafaTopu
-Kafa Topu 1 Buçuk
+# Kafa Topu
+Kafa Topu Versiyon 1 Buçuk
+
+Pygame ile geliştirilmiş bir futbol Kafa Topu Oyunu
